@@ -1,0 +1,9 @@
+.dashboard-container {
+    text-align: center;
+    padding: 20px;
+  }
+  .stock-price {
+    font-size: 18px;
+    color: green;
+  }
+  
